@@ -1,0 +1,17 @@
+# Ignore build files
+*.obj
+*.exe
+*.ilk
+*.log
+*.tlog
+*.pdb
+*.idb
+*.recipe
+*.lastbuildstate
+*.vcxproj.user
+*.vcxproj.filters
+
+# Ignore directories
+x64/
+Debug/
+Release/
